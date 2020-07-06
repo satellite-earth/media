@@ -1,5 +1,5 @@
 
-const Torrent = require('@satellite-earth/dev-torrent');
+const Torrent = require('@satellite-earth/torrent');
 
 class Media extends Torrent {
 
